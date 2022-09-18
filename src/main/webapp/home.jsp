@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1>Welcome to Resoline</h1>
-<h2>India's first cloud kitchen</h2>
+<h2>India's first cloud kitchen in asia</h2>
 
  <h3>File Upload:</h3>
       Select a file to upload: <br />
