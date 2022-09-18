@@ -56,9 +56,9 @@ data-bs-toggle="dropdown" aria-expanded="false">Products</a>
   <img src="..." class="card-img-top" alt="...">
 
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Kitchen Product Remembered</h5>
+    <p class="card-text">Accedd every product necessary for your kitchen</p>
+    <a href="#" class="btn btn-primary">Eat Something</a>
   </div>
 </div>
 
